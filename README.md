@@ -8,3 +8,4 @@
 # STATS:
 
 ![](https://komarev.com/ghpvc/?username=KeevoDev&color=blueviolet)
+![](https://github-readme-stats.vercel.app/api?username=KeevoDev&show_icons=true&theme=radical)
