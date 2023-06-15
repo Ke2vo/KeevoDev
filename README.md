@@ -1,9 +1,21 @@
 # ABOUT ME:
 
-- 👋 Hi, I’m @KeevoDev
-- 💞️ My Real Name is Ahmed
-- 👀 My Age 17
-- 🌱 I’m currently learning Python
+```
+class Keevo:
+    
+    def __init__(self):
+        self.in_progress = 'None'
+        self.username = 'Keevo'
+        self.location = 'Earth'
+        self.discord = 'j.r7'
+        self.languages = ["python"]
+        self.learning = ["C#"]
+        
+    def __str__(self):
+        return self.username
+
+if __name__ == '__main__':
+    me = Keevo()```
 
 # STATS:
 
